@@ -1,6 +1,6 @@
 ### data receiver service
 -----
-Serveice is created using `dropwizard` in java.
+Service is created using `dropwizard` in java.
 
 `datareceiver.yaml` is the configuration of this program.
 
